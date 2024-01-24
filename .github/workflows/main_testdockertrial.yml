@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'testDockertrial'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_80E1F3550F674B908509F1E4D93395B7 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7E4D52C1B02B43A681C4F60827F14BFF }}
